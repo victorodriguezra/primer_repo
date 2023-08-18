@@ -1,0 +1,33 @@
+section {
+  border: 1px solid rebeccapurple;
+  width: 100%;
+  height: 170px;
+}
+
+div {
+  margin: 20px;
+  width: 50px;
+  height: 150px;
+}
+
+.left {
+  float: left;
+  background: lightpink;
+}
+
+.right {
+  float: right;
+  background: lightsalmon;
+}
+
+.botonsexy {
+  display: inline;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: wheat;
+  border: 1px dotted black;
+  cursor: pointer;
+  
+}

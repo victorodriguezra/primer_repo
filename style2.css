@@ -1,0 +1,39 @@
+.ejemplo-box {
+    border: 2px solid green;
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+
+.ejemplo-box-inline {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(233, 209, 105);
+  margin-top: 100px;
+  margin-left: 150px;
+  display: inline;
+  padding: 10px;
+}
+
+.span {
+  display: block;
+}
+
+.px150 {
+    margin-left: 150px;
+}
+
+.black-element {
+  display: block;
+  width: 200px;
+  height: 100px;
+  background-color: lightcoral;
+  border: 2px solid black;
+}
+.black-element2 {
+  background-color: rgb(170, 115, 115);
+  border: 2px solid black;
+  padding: 15px;
+}
